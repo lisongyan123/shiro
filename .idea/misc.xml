@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cas-custom-password-verification" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-cas" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-cas-jdbc" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/shiro-cas/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-cas-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-oauth-client/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-oauth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-4/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-5/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-6/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-7/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-8/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-9/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-10/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-11/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-12/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-13/pom.xml" />
+        <option value="$PROJECT_DIR$/cas-custom-password-verification/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
